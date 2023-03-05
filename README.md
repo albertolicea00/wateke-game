@@ -55,7 +55,12 @@ Install dependencies
   npm install
 ```
 
-Start the game: ` run index.html `
+Start the game: 
+
+```bash
+  start index.html
+```
+
 
 
 ## License
